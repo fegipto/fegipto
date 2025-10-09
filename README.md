@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fegipto
+- 👋 Hi, I’m Filipe Egipto
 - 👀 I’m interested in technology, sports!
 - 🌱 I’m currently taking a master's degree in Software Engineering!
 - 💞️ I’ve graduated in Computer Science at FCUL, Portugal
