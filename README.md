@@ -9,7 +9,7 @@
   - [Game Store](https://github.com/fegipto/PSI-Project---Game-Store): The main idea of this project was to create a system which gives more visibility to the products and allows for a bigger interaction between its players. To complete this project, it was fundamental to follow a software development methodology inspired in the Kanban methodology. Technologies used: Angular, TypeScript, JavaScript, HTML, CSS and MongoDB.
   - [Tintolmarket](https://github.com/fegipto/SC-Project---Tintolmarket): The main idea of this project was to develop a wine shop. The project was divided in 2 phases: On the first phase, the functionalities of the service were developed, leaving the web application functional, however, with no security. On the second one, the security aspects were taken into account so that the interactions and the whole system were safe. Technologies used: Java and Gradle.
   - [SD Project](https://github.com/fegipto/SD-Project): The main idea of this project was to make a key-value pair storage service similar to the one used by Amazon to support its web services. This way, the data structure used to store this information was a binary-search tree given its high efficiency on the search level. Technologies used: C, Apache ZooKeeper, and Makefile.
-- 👨🏼‍💻 To see some of my most recent work, please checkout @Filipeegipto
+- 👨🏼‍💻 To see some of my most recent work, please checkout [@Filipeegipto](https://github.com/Filipeegipto)
 <!---
 fegipto/fegipto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
